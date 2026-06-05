@@ -80,7 +80,7 @@ A cutting-edge warehouse management platform combining traditional ML algorithms
 
 ```bash
 # Clone the repository
-git clone https://github.com/Manthan0711/warehouse_2026.git
+git clone https://github.com/V1gilante/smartspace-main
 cd warehouse_2026
 
 # Install dependencies (THIS IS REQUIRED - node_modules not included)
