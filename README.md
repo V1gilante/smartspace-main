@@ -479,4 +479,4 @@ For issues or questions:
 
 **Built with ❤️ for intelligent warehouse management**
 
-*Last Updated: February 2026*
+*Last Updated: June 2026*
